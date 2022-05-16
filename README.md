@@ -7,7 +7,7 @@
   -	Evaluated the model by creating classification report and confusion matrix
  
  * **Python's libraries used for this project** \
-      -Pandas, NumPy, Matplotlib, Seaborn, Scikit learn/Sklearn, Tensorflow/Keras
+     - Pandas, NumPy, Matplotlib, Seaborn, Scikit learn/Sklearn, Tensorflow/Keras
 
 
   -	
