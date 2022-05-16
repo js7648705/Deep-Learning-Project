@@ -6,8 +6,8 @@
   -	Applied feature engineering to create new features
   -	Evaluated the model by creating classification report and confusion matrix
  
-**Python's libraries used for this project** \
-   Pandas, NumPy, Matplotlib, Seaborn, Scikit learn/Sklearn, Tensorflow/Keras
+ * **Python's libraries used for this project** \
+      -Pandas, NumPy, Matplotlib, Seaborn, Scikit learn/Sklearn, Tensorflow/Keras
 
 
   -	
